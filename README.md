@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/gabriel-nt/Plant-Manager/blob/main/src/assets/git/logo.png" alt="Plant Manager" />
+  <img src="https://github.com/gustavo-nt/plant-manager/blob/main/src/assets/git/logo.png" alt="Plant Manager" />
 </p>
 <h1 align="center">
     🚀 Plant Mananger
@@ -38,9 +38,9 @@ O Plant Manager é uma aplicação para ajudar os usuários a lembrarem de cuida
 
 ### ✅ Demonstação
 <p>
-  <img src="https://github.com/gabriel-nt/Plant-Manager/blob/main/src/assets/git/home.png" alt="Plant Manager" width="250"/>
-  <img src="https://github.com/gabriel-nt/Plant-Manager/blob/main/src/assets/git/new-plant.png" alt="Plant Manager" width="250"/>
-  <img src="https://github.com/gabriel-nt/Plant-Manager/blob/main/src/assets/git/my-plants.png" alt="Plant Manager" width="250"/>
+  <img src="https://github.com/gustavo-nt/plant-manager/blob/main/src/assets/git/home.png" alt="Plant Manager" width="250"/>
+  <img src="https://github.com/gustavo-nt/plant-manager/blob/main/src/assets/git/new-plant.png" alt="Plant Manager" width="250"/>
+  <img src="https://github.com/gustavo-nt/plant-manager/blob/main/src/assets/git/my-plants.png" alt="Plant Manager" width="250"/>
 </p>
 
 
